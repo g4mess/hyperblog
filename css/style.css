@@ -3,10 +3,25 @@ body{
     
 }
 .body{
+    text-align: center;
     padding:5px;
-    background-color: aliceblue;
-    border-radius: 10px;
+    background-color: azure;
+    border-radius:0 0 20px 20px;
     width: 30%;
     height: 50%;
     border-color: black;
+    font-size: 18px;
+}
+.body h1{
+    font-size:35px ;
+    font-style: oblique;
+    color: brown;
+}
+.header{
+    font-weight: 600;
+    text-align: center;
+    width: 30%;
+    padding: 5px;
+    background-color:azure;
+    font-size: 18px;
 }
