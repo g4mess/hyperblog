@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+    
+}
+.body{
+    padding:5px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 30%;
+    height: 50%;
+    border-color: black;
+}
